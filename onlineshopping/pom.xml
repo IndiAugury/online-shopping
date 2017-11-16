@@ -79,4 +79,7 @@
 
 		<finalName>onlineshopping</finalName>
 	</build>
+	<organization>
+		<name>India Augury</name>
+	</organization>
 </project>

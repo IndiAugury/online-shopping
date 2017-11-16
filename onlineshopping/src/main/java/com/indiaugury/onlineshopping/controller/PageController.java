@@ -72,7 +72,7 @@ public class PageController {
 	public ModelAndView showCategoryProducts(@PathVariable("id")int id) {
 		ModelAndView mv = new ModelAndView("page");
 		
-		//category DAO to fect single category
+		//category DAO to fetch single category
 		
 		Category category= null;
 		category=categoryDAO.get(id);

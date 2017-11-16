@@ -80,8 +80,8 @@
 
 		<script src="${js}/bootstrap.bundle.min.js"></script>
 
-0		<!-- MyApp JS Added -->
-0
+	<!-- MyApp JS Added -->
+
 		<script src="${js}/myapp.js"></script>
 
 
